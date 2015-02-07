@@ -10,8 +10,8 @@ The electrical wiring that works with the LabView code checked into this reposit
 * `DIO 2` - Pusher Front Limit Switch
 * `DIO 3` - Side Back Proximity Sensor
 * `DIO 4` - Side Front Proximity Sensor
-* `DIO 5` - Front Right Proximity Sensor
-* `DIO 6` - Front Left Proximity Sensor
+* `DIO 6` - Front Right Proximity Sensor
+* `DIO 7` - Front Left Proximity Sensor
 
 ### Analog Inputs
 * `AIO 0` - Gyroscope Sensor
