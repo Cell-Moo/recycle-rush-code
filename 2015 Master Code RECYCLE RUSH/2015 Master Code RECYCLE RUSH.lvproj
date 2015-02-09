@@ -27,6 +27,7 @@
 			<Item Name="FRC Simulated.xml" Type="Document" URL="../FRC Simulated.xml"/>
 		</Item>
 		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../Robot Simulation Readme.html"/>
+		<Item Name="Arm Control.vi" Type="VI" URL="../Modules 2015/Arm Control.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -747,8 +748,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Robot Turn (William + Michael S).vi" Type="VI" URL="../Modules 2015/Robot Turn (William + Michael S).vi"/>
-			<Item Name="Turn States.ctl" Type="VI" URL="../Modules 2015/Turn States.ctl"/>
 			<Item Name="Wojtek Controller.vi" Type="VI" URL="../Modules 2015/Wojtek Controller.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
