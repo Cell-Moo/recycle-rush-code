@@ -130,9 +130,11 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Desired Arm Position.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Desired Arm Position.vi"/>
+		<Item Name="Keener.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Keener.vi"/>
 		<Item Name="Loading Sequence.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Loading Sequence.vi"/>
 		<Item Name="PI Controller.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/PI Controller.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="Unloading Sequence.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Unloading Sequence.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -770,6 +772,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Robot Turn (William + Michael S).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Robot Turn (William + Michael S).vi"/>
 			<Item Name="Tote Pusher (William).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Tote Pusher (William).vi"/>
 			<Item Name="Turn States.ctl" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Turn States.ctl"/>
+			<Item Name="Unload State.ctl" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Unload State.ctl"/>
 			<Item Name="Wojtek Controller.vi" Type="VI" URL="../Modules 2015/Wojtek Controller.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
