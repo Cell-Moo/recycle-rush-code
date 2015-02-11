@@ -18,6 +18,7 @@ The electrical wiring that works with the LabView code checked into this reposit
 * `MXP DIO 1` - Back Arm Encoder Channel B
 * `MXP DIO 2` - Back Bottom Limit Switch
 * `MXP DIO 3` - Back Top Limit Switch
+* `MXP DIO 4` - Pusher Back Limit Switch
 
 ### Analog Inputs
 * `AIO 0` - Gyroscope Sensor
