@@ -738,6 +738,7 @@ AddOutputFilter chunkFilter
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Lift Back Arms (Darius + Allen).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Lift Back Arms (Darius + Allen).vi"/>
 			<Item Name="Lift Front Arms (William).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Lift Front Arms (William).vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Moving Average.vi" Type="VI" URL="../Modules 2015/Moving Average.vi"/>
