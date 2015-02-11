@@ -12,6 +12,12 @@ The electrical wiring that works with the LabView code checked into this reposit
 * `DIO 4` - Side Front Proximity Sensor
 * `DIO 6` - Front Right Proximity Sensor
 * `DIO 7` - Front Left Proximity Sensor
+* `DIO 8` - Front Arm Encoder Channel A
+* `DIO 9` - Front Arm Encoder Channel B
+* `MXP DIO 0` - Back Arm Encoder Channel A
+* `MXP DIO 1` - Back Arm Encoder Channel B
+* `MXP DIO 2` - Back Bottom Limit Switch
+* `MXP DIO 3` - Back Top Limit Switch
 
 ### Analog Inputs
 * `AIO 0` - Gyroscope Sensor
