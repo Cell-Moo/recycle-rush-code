@@ -131,6 +131,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Desired Arm Position.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Desired Arm Position.vi"/>
 		<Item Name="Keener.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Keener.vi"/>
+		<Item Name="Latch.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Latch.vi"/>
 		<Item Name="Loading Sequence.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Loading Sequence.vi"/>
 		<Item Name="PI Controller.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/PI Controller.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
@@ -770,6 +771,7 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="Open Back Hand (Ali).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Open Back Hand (Ali).vi"/>
 			<Item Name="Robot Turn (William + Michael S).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Robot Turn (William + Michael S).vi"/>
+			<Item Name="Rotate Arms (David Guan).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Rotate Arms (David Guan).vi"/>
 			<Item Name="Tote Pusher (William).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Tote Pusher (William).vi"/>
 			<Item Name="Turn States.ctl" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Turn States.ctl"/>
 			<Item Name="Unload State.ctl" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/Modules 2015/Unload State.ctl"/>
