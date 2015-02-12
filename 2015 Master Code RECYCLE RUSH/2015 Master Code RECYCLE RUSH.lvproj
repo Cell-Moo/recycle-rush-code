@@ -766,8 +766,10 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Open Back Hand (Ali).vi" Type="VI" URL="../Modules 2015/Open Back Hand (Ali).vi"/>
+			<Item Name="Robot Turn (William + Michael S).vi" Type="VI" URL="../Modules 2015/Robot Turn (William + Michael S).vi"/>
 			<Item Name="Rotate Arms (David Guan).vi" Type="VI" URL="../Modules 2015/Rotate Arms (David Guan).vi"/>
 			<Item Name="Tote Pusher (William).vi" Type="VI" URL="../Modules 2015/Tote Pusher (William).vi"/>
+			<Item Name="Turn States.ctl" Type="VI" URL="../Modules 2015/Turn States.ctl"/>
 			<Item Name="Wojtek Controller.vi" Type="VI" URL="../Modules 2015/Wojtek Controller.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
