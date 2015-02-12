@@ -130,6 +130,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Loading Sequence.vi" Type="VI" URL="../Modules 2015/Loading Sequence.vi"/>
+		<Item Name="Lower Front Arms.vi" Type="VI" URL="../Modules 2015/Lower Front Arms.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -746,6 +748,7 @@ AddOutputFilter chunkFilter
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Latch.vi" Type="VI" URL="../Modules 2015/Latch.vi"/>
 			<Item Name="Lift Back Arms (Darius + Allen).vi" Type="VI" URL="../Modules 2015/Lift Back Arms (Darius + Allen).vi"/>
 			<Item Name="Lift Front Arms (William).vi" Type="VI" URL="../Modules 2015/Lift Front Arms (William).vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
