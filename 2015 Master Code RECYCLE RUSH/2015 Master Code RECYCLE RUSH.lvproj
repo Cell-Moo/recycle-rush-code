@@ -131,7 +131,10 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Loading Sequence.vi" Type="VI" URL="../Modules 2015/Loading Sequence.vi"/>
+		<Item Name="Lower Arm States.ctl" Type="VI" URL="../Modules 2015/Lower Arm States.ctl"/>
+		<Item Name="Lower Back Arms.vi" Type="VI" URL="../Modules 2015/Lower Back Arms.vi"/>
 		<Item Name="Lower Front Arms.vi" Type="VI" URL="../Modules 2015/Lower Front Arms.vi"/>
+		<Item Name="Range.vi" Type="VI" URL="../Modules 2015/Range.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -744,6 +747,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
 			<Item Name="Arm Control.vi" Type="VI" URL="../Modules 2015/Arm Control.vi"/>
+			<Item Name="Autonomous No Shift 1 Tote 1 Container.vi" Type="VI" URL="../Modules 2015/Autonomous No Shift 1 Tote 1 Container.vi"/>
+			<Item Name="Backup Auto States.ctl" Type="VI" URL="../Modules 2015/Backup Auto States.ctl"/>
 			<Item Name="conversion.vi" Type="VI" URL="../Modules 2015/conversion.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -751,6 +756,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Latch.vi" Type="VI" URL="../Modules 2015/Latch.vi"/>
 			<Item Name="Lift Back Arms (Darius + Allen).vi" Type="VI" URL="../Modules 2015/Lift Back Arms (Darius + Allen).vi"/>
 			<Item Name="Lift Front Arms (William).vi" Type="VI" URL="../Modules 2015/Lift Front Arms (William).vi"/>
+			<Item Name="Loading States.ctl" Type="VI" URL="../Modules 2015/Loading States.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Moving Average.vi" Type="VI" URL="../Modules 2015/Moving Average.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
