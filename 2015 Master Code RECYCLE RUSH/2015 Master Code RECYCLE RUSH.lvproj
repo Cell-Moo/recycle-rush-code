@@ -122,7 +122,12 @@ AddOutputFilter chunkFilter
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
 			<Item Name="Drive States.ctl" Type="VI" URL="../Modules 2015/Drive States.ctl"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
+			<Item Name="Loading Sequence.vi" Type="VI" URL="../Modules 2015/Loading Sequence.vi"/>
+			<Item Name="Lower Arm States.ctl" Type="VI" URL="../Modules 2015/Lower Arm States.ctl"/>
+			<Item Name="Lower Back Arms.vi" Type="VI" URL="../Modules 2015/Lower Back Arms.vi"/>
+			<Item Name="Lower Front Arms.vi" Type="VI" URL="../Modules 2015/Lower Front Arms.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
+			<Item Name="Range.vi" Type="VI" URL="../Modules 2015/Range.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 			<Item Name="Robot Move (Celina + Herun).vi" Type="VI" URL="../Modules 2015/Robot Move (Celina + Herun).vi"/>
 			<Item Name="Robot Move (with Controllers).vi" Type="VI" URL="../Modules 2015/Robot Move (with Controllers).vi"/>
@@ -130,11 +135,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Loading Sequence.vi" Type="VI" URL="../Modules 2015/Loading Sequence.vi"/>
-		<Item Name="Lower Arm States.ctl" Type="VI" URL="../Modules 2015/Lower Arm States.ctl"/>
-		<Item Name="Lower Back Arms.vi" Type="VI" URL="../Modules 2015/Lower Back Arms.vi"/>
-		<Item Name="Lower Front Arms.vi" Type="VI" URL="../Modules 2015/Lower Front Arms.vi"/>
-		<Item Name="Range.vi" Type="VI" URL="../Modules 2015/Range.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
