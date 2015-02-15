@@ -135,6 +135,11 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="1 Container Position 3.vi" Type="VI" URL="../Modules 2015/1 Container Position 3.vi"/>
+		<Item Name="1 Container States.ctl" Type="VI" URL="../Modules 2015/1 Container States.ctl"/>
+		<Item Name="Automonous no shift 1 container.vi" Type="VI" URL="../Modules 2015/Automonous no shift 1 container.vi"/>
+		<Item Name="Autonomous No shift 1 Tote 1 Container position 3.vi" Type="VI" URL="../Modules 2015/Autonomous No shift 1 Tote 1 Container position 3.vi"/>
+		<Item Name="conversion 2.vi" Type="VI" URL="../Modules 2015/conversion 2.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -697,15 +702,15 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_RobotDriveGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveGetSetRefNum.vi"/>
 				<Item Name="WPI_RobotDriveMotors.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveMotors.vi"/>
 				<Item Name="WPI_RobotDriveMotorSelectorEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveMotorSelectorEnum.ctl"/>
-				<Item Name="WPI_RobotDriveOpen4Motor.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4Motor.vi"/>
-				<Item Name="WPI_RobotDriveOpen4MotorWithCANJaguar.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithCANJaguar.vi"/>
-				<Item Name="WPI_RobotDriveOpen4MotorWithCANTalonSRX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithCANTalonSRX.vi"/>
-				<Item Name="WPI_RobotDriveOpen4MotorWithExistingMotors.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithExistingMotors.vi"/>
-				<Item Name="WPI_RobotDriveOpen4MotorWithJaguar.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithJaguar.vi"/>
-				<Item Name="WPI_RobotDriveOpen4MotorWithTalon.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithTalon.vi"/>
-				<Item Name="WPI_RobotDriveOpen4MotorWithTalonSRX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithTalonSRX.vi"/>
-				<Item Name="WPI_RobotDriveOpen4MotorWithVictor.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithVictor.vi"/>
-				<Item Name="WPI_RobotDriveOpen4MotorWithVictorSP.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen4MotorWithVictorSP.vi"/>
+				<Item Name="WPI_RobotDriveOpen2Motor.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2Motor.vi"/>
+				<Item Name="WPI_RobotDriveOpen2MotorWithCANJaguar.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2MotorWithCANJaguar.vi"/>
+				<Item Name="WPI_RobotDriveOpen2MotorWithCANTalonSRX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2MotorWithCANTalonSRX.vi"/>
+				<Item Name="WPI_RobotDriveOpen2MotorWithExistingMotors.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2MotorWithExistingMotors.vi"/>
+				<Item Name="WPI_RobotDriveOpen2MotorWithJaguar.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2MotorWithJaguar.vi"/>
+				<Item Name="WPI_RobotDriveOpen2MotorWithTalon.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2MotorWithTalon.vi"/>
+				<Item Name="WPI_RobotDriveOpen2MotorWithTalonSRX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2MotorWithTalonSRX.vi"/>
+				<Item Name="WPI_RobotDriveOpen2MotorWithVictor.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2MotorWithVictor.vi"/>
+				<Item Name="WPI_RobotDriveOpen2MotorWithVictorSP.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveOpen2MotorWithVictorSP.vi"/>
 				<Item Name="WPI_RobotDriveRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveRefNum Registry Get.vi"/>
 				<Item Name="WPI_RobotDriveRefNum Registry Read Name.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveRefNum Registry Read Name.vi"/>
 				<Item Name="WPI_RobotDriveRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveRefNum Registry Set.vi"/>
@@ -747,6 +752,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
 			<Item Name="Arm Control.vi" Type="VI" URL="../Modules 2015/Arm Control.vi"/>
+			<Item Name="Autonomous 1 Container with Self Correction.ctl" Type="VI" URL="../Modules 2015/Autonomous 1 Container with Self Correction.ctl"/>
+			<Item Name="Autonomous No shift 1 tote 1 container position 3 states.ctl" Type="VI" URL="../Modules 2015/Autonomous No shift 1 tote 1 container position 3 states.ctl"/>
 			<Item Name="Autonomous No Shift 1 Tote 1 Container.vi" Type="VI" URL="../Modules 2015/Autonomous No Shift 1 Tote 1 Container.vi"/>
 			<Item Name="Backup Auto States.ctl" Type="VI" URL="../Modules 2015/Backup Auto States.ctl"/>
 			<Item Name="conversion.vi" Type="VI" URL="../Modules 2015/conversion.vi"/>
@@ -772,9 +779,12 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Open Back Hand (Ali).vi" Type="VI" URL="../Modules 2015/Open Back Hand (Ali).vi"/>
+			<Item Name="Robot Global Data.vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/2015 Master Code RECYCLE RUSH/Robot Global Data.vi"/>
+			<Item Name="Robot Turn (William + Michael S).vi" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/2015 Master Code RECYCLE RUSH/Modules 2015/Robot Turn (William + Michael S).vi"/>
 			<Item Name="Robot Turn (William + Michael S).vi" Type="VI" URL="../Modules 2015/Robot Turn (William + Michael S).vi"/>
 			<Item Name="Rotate Arms (David Guan).vi" Type="VI" URL="../Modules 2015/Rotate Arms (David Guan).vi"/>
 			<Item Name="Tote Pusher (William).vi" Type="VI" URL="../Modules 2015/Tote Pusher (William).vi"/>
+			<Item Name="Turn States.ctl" Type="VI" URL="../../../2015 Master Code RECYCLE RUSH/2015 Master Code RECYCLE RUSH/Modules 2015/Turn States.ctl"/>
 			<Item Name="Turn States.ctl" Type="VI" URL="../Modules 2015/Turn States.ctl"/>
 			<Item Name="Wojtek Controller.vi" Type="VI" URL="../Modules 2015/Wojtek Controller.vi"/>
 		</Item>
