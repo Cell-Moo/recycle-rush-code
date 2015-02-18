@@ -112,6 +112,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Support Code" Type="Folder">
+			<Item Name="1 Container States.ctl" Type="VI" URL="../Modules 2015/1 Container States.ctl"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
@@ -136,7 +137,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="1 Container Position 3.vi" Type="VI" URL="../Modules 2015/1 Container Position 3.vi"/>
-		<Item Name="1 Container States.ctl" Type="VI" URL="../Modules 2015/1 Container States.ctl"/>
 		<Item Name="Automonous no shift 1 container.vi" Type="VI" URL="../Modules 2015/Automonous no shift 1 container.vi"/>
 		<Item Name="Autonomous No shift 1 Tote 1 Container position 3.vi" Type="VI" URL="../Modules 2015/Autonomous No shift 1 Tote 1 Container position 3.vi"/>
 		<Item Name="conversion 2.vi" Type="VI" URL="../Modules 2015/conversion 2.vi"/>
@@ -780,7 +780,6 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="Open Back Hand (Ali).vi" Type="VI" URL="../Modules 2015/Open Back Hand (Ali).vi"/>
 			<Item Name="Robot Turn (William + Michael S).vi" Type="VI" URL="../Modules 2015/Robot Turn (William + Michael S).vi"/>
-			<Item Name="Rotate Arms (David Guan).vi" Type="VI" URL="../Modules 2015/Rotate Arms (David Guan).vi"/>
 			<Item Name="Tote Pusher (William).vi" Type="VI" URL="../Modules 2015/Tote Pusher (William).vi"/>
 			<Item Name="Turn States.ctl" Type="VI" URL="../Modules 2015/Turn States.ctl"/>
 			<Item Name="Wojtek Controller.vi" Type="VI" URL="../Modules 2015/Wojtek Controller.vi"/>
@@ -798,11 +797,12 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_compilerOptLevel" Type="Int">0</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Developer/Documents/LabVIEW Data/2015 Master Code RECYCLE RUSH/Builds</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Developer/Documents/LabVIEW Data/NI_AB_PROJECTNAME/Builds</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
